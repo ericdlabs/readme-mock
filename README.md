@@ -42,7 +42,7 @@ cd ..
 ```
 
 ### Run application
-You will need to run this application on a fisical device. This project is unable to run on emulator becuase of BioStrap dependency (library not built for Arm)
+You will need to run this application on a fisical device. This project is unable to run on emulator because of BioStrap dependency (library not built for Arm)
 ##### iOS ###
 1. Open application in xcode
 ```sh
