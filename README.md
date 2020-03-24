@@ -1,4 +1,4 @@
-# Vivi Health Patient App
+# ViviHealth Patient App
 
 ### Before you start
 
