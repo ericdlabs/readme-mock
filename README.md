@@ -30,7 +30,7 @@ cd patient-app
 npm install
 ```
 
-4. Configurate ios project
+4. Configurate iOS project
 ```sh
 cd ios
 pod install
