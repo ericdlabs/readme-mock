@@ -5,7 +5,7 @@
 ViviHealth requires a couple of previous steps to start with the installation. 
 
 - You will need to have [npm](https://www.npmjs.com/) to install the application dependencies. If you don't have it, please follow [this](https://www.npmjs.com/get-npm)  steps to install it.
-- You will need to belong to the apple organization development team for this project in order to run the application on iOS. 
+- You will need to belong to apple organization development team for this project in order to run the application on iOS. 
 - You will need access to a [this](https://github.com/transistorsoft/react-native-background-geolocation-android) private github repository to install this dependency:
 ```sh
 react-native-background-geolocation-android
